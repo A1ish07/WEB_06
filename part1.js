@@ -1,5 +1,4 @@
 $(document).ready(function () {
-  // Task 0
   console.log("jQuery is ready!");
 
   // Task 1
