@@ -1,0 +1,12 @@
+nav a {margin-right: 1px;}
+
+.panel { background: #eaf0ff;}
+
+img.demo { width: 320px; display: block; }
+
+.stage { position: relative; height: 280px; border: 1px solid #999; }
+.box { position: absolute; left: 0; top: 0; width: 60px; height: 60px; background: red; }
+.gallery img { width: 130px; height: 100px; object-fit: cover; margin: 4px; cursor: pointer; }
+
+#lightbox {display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(48, 41, 41, 0.8); align-items: center; justify-content: center;}
+#lightbox img { max-width: 90%; max-height: 90%; }
